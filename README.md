@@ -7,6 +7,8 @@ The first step in the algorithm is the removal of the points creating collinear 
 
 In this respect, the first candidate for the center of MIC is revealed in the algorithm by maximizing the radius of circle tangent interior to one of the edges of polygon on the base of these vertices. The first candidate for the center of MIC is also used by the algorithm for the determination of the possible cores that may cover the center of MIC. For each core, MICGIS performs three approximation of MIC, and if necessary, the solutions proposed for the special cases of Apollonius’ Problem are also used for the approximation of the best MIC.
 
+Beyhan, B., Güler, C. & Tağa, H. (2020) An algorithm for maximum inscribed circle based on Voronoi diagrams and geometrical properties. Journal of Geographical Systems, 22, 391–418. https://doi.org/10.1007/s10109-020-00325-3
+
 ## Installation and Use
 In order to install “Maximum Inscribed Cirle” plugin, file named “MICGIS.jar” should be copied to the extension folder (“ext”) of OpenJUMP installation. In a typical Windows-based operating system, the default address for the respective folder is as following;
 
@@ -19,4 +21,4 @@ OpenJUMP - http://www.openjump.org/
 
 ## References
 
-BEYHAN, B., GÜLER, C. & TAĞA, H. (2020) An algorithm for maximum inscribed circle based on Voronoi diagrams and geometrical properties. Journal of Geographical Systems, 22, 391–418.
+BEYHAN, B., GÜLER, C. & TAĞA, H. (2020) An algorithm for maximum inscribed circle based on Voronoi diagrams and geometrical properties. Journal of Geographical Systems, 22, 391–418. https://doi.org/10.1007/s10109-020-00325-3
