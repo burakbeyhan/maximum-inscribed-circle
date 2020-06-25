@@ -1,7 +1,7 @@
 # Maximum Inscribed Circle
 
 ## About
-This is an OpenJUMP plugin designed to delimit Maximum Inscribed Circle (MIC) that can be placed within a polygon. It is based on the MICGIS algorithm developed by Beyhan et al. (2020). Cite as
+This is an OpenJUMP plugin designed to delimit Maximum Inscribed Circle (MIC) that can be placed within a polygon. It is based on the MICGIS algorithm developed by Beyhan, Güler and Tağa (2020). Cite as
 
 Beyhan, B., Güler, C. & Tağa, H. (2020) An algorithm for maximum inscribed circle based on Voronoi diagrams and geometrical properties. Journal of Geographical Systems, 22, 391–418. https://doi.org/10.1007/s10109-020-00325-3
 
